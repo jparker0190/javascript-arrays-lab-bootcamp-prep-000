@@ -1,6 +1,6 @@
 const app = "I don't do much."
-function destructivelyPrependKitten(array){
-  var array = array
+function destructivelyPrependKitten(kitten){
+  var array = [kitten]
   array.push(array)
   return array
 }
