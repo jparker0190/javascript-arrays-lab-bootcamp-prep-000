@@ -15,3 +15,4 @@ function destrucivelyRemoveFirstKitten(){
   kittens.push()
   return kittens
 }
+function
